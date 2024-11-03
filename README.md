@@ -1,3 +1,3 @@
-### Hi there 👋
+## http 301 moment
 
-#### I changed my username!! [@imaperson1060](https://github.com/imaperson1060)
+#### i changed my username to [@imaperson1060](https://github.com/imaperson1060)
